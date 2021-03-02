@@ -27,8 +27,3 @@ class Bus:
             self.pick_up(passenger)
         
         bus_stop.clear()
-        # if customer.cash < pet.price:
-        #     return
-        #self.pick_up() 
-
-        # bus.passenger_count = 2
